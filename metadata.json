@@ -1,0 +1,5 @@
+{
+  "name": "Video Metadata (Angular)",
+  "description": "An application to automatically generate searchable titles and relevant keywords for multiple videos by analyzing their frames using AI.",
+  "requestFramePermissions": []
+}
